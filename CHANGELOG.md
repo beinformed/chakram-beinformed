@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0-beta.0](https://github.com/beinformed/chakram-beinformed/compare/v2.0.0...v3.0.0-beta.0) (2022-02-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* no longer support for node v10
+
+* feat!(update): update dependencies ([d06c40c](https://github.com/beinformed/chakram-beinformed/commit/d06c40cbca144f7ed8f822ef4a4f8525026219f7))
+
 ## 2.0.0 (2020-09-21)
 
 -   Removed request and request-debug packages
